@@ -286,3 +286,19 @@ footer {
   }
 }
 
+
+/* Improve About and Skills spacing */
+
+#about {
+  padding-bottom: 35px;
+}
+
+#skills {
+  padding-top: 35px;
+}
+
+#about p {
+  max-width: 900px;
+  line-height: 1.8;
+}
+
